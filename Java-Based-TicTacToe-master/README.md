@@ -43,4 +43,4 @@ Contributions are welcome! Feel free to submit bug reports, feature requests, or
 - This project was inspired by the classic Tic Tac Toe game and various Android tutorials and resources available online.
 
 ### Contact
-For any inquiries or feedback, contact me: syedalijibranrizvi@gmail.com
+For any inquiries or feedback, contact me: belal.aziz.992@gmail.com
